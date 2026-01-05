@@ -1,0 +1,20 @@
+TECH CHALLENGE – RELATÓRIO FINAL
+========================================
+
+Total de frames analisados: 3326
+Número de anomalias detectadas: 95
+
+Distribuição de Emoções:
+- neutral: 1963
+- sad: 253
+- happy: 514
+- surprise: 224
+- angry: 65
+
+Distribuição de Atividades:
+- parado: 2218
+- movimento leve: 706
+- movimento brusco: 95
+
+Resumo Automático:
+O sistema analisou o vídeo identificando rostos, inferindo emoções por meio de modelos de deep learning e classificando atividades. Movimentos que não seguiram o padrão geral foram classificados como anômalos.

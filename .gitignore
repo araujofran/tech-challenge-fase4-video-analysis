@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+__pycache__/
+
+# Cache Python
+*.pyc
+
+# Vídeos e áudios grandes
+*.mp4
+*.m4a
+
+# Binários e compactados
+*.7z
+*.zip
+*.exe
+
+# FFmpeg e modelos grandes
+models/ffmpeg*/
+models/*.caffemodel
+models/*.task
+
+# Logs
+*.log
+
+# Sistema
+Thumbs.db
+.DS_Store
